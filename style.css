@@ -1,4 +1,35 @@
+body{
+              font-family: 'Poppins', sans-serif;
+              margin: 0px;
+}
 h1{
-              font-weight: bold;
-              color: rgb(255, 2, 183);
+              font-size:50px;
+}
+#mehedi{
+              color: #ffa500; 
+}
+section{
+              display: flex;
+}
+.half-width{
+              width: 50%;
+              padding: 5%;
+}
+.half-width img{
+              width: 
+              80%;
+}
+.link-button{
+              text-decoration: none;
+              background-color: #ffa500;
+              padding: 10px 40px ;
+              border-radius: 5px;
+              background-image: linear-gradient(orange, rgb(255, 46, 9));
+              font-weight: 700;
+              color: antiquewhite;
+}
+.top-banner{
+              background-image: url(images/top-banner.png);
+              background-repeat: no-repeat;
+
 }
